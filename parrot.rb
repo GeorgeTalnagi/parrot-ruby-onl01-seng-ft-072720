@@ -1,6 +1,6 @@
 def parrot(name = "Squawk!")
-  puts "name"
-  print "name"
+  puts name
+  return name
 end
 
 parrot("Pretty bird!")
